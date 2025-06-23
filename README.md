@@ -1,4 +1,4 @@
-### Aloha, I'm Nupur! 👋
+### Hola, I'm Nupur! 👋
 # 💫 About Me:
 <img align="right" alt="Coding" width="245" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
