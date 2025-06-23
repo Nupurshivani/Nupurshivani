@@ -1,6 +1,5 @@
 ### Hola, I'm Nupur! 👋
 # 💫 About Me:
-<img align="right" alt="Coding" width="245" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f88-9c4d-9f8c3c8e6a0c.gif" width="900">
 
 🔭 I’m currently working on my Skills & Problem-solving abilities.<br>👯 I’m looking to collaborate on Exploring Modern Technology<br>🌱 I’m currently learning Back-End Frameworks & Java<br>💬 Ask me about any Tech-related Stuff<br>📫 How to reach me: nupurjha.me@gmail.com<br>⚡ Fun fact: Always chilling with my own procrastined plots
