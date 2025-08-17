@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Computer Science Engineering Final Year student** specializing in **Cybersecurity & Forensics** at VIT Bhopal University. My journey spans full stack development, data analytics, AI-powered solutions, and cybersecurity implementations. 
+I'm a Final Year **Computer Science Engineering student** specializing in **Cybersecurity & Forensics** at VIT Bhopal University. My journey spans full stack development, data analytics, AI-powered solutions, and cybersecurity implementations. 
 
 - 🔥 **Full Stack Development** with with hands-on experience at **Ethnus-Codemithra** 
 - 📊 **Data Analytics & AI** enthusiast, transforming data into actionable insights  
