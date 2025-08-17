@@ -12,7 +12,7 @@ I'm a passionate **Computer Science Engineering Final Year student** specializin
 
 - 🔥 **Full Stack Development** with with hands-on experience at **Ethnus-Codemithra** 
 - 📊 **Data Analytics & AI** enthusiast, transforming data into actionable insights  
-- 🔒 **Cybersecurity** advocate, implementing secure coding practices and ethical hacking principles
+- 🔒 **Cybersecurity** Expert, implementing secure coding practices and ethical hacking principles
 - 🌟 **Open Source Contributor** with contributions across multiple repositories
 - 🎯 Currently diving deep into **Advanced E2E Tsting** and **Advanced Security Frameworks**
 - 💡 Always exploring the intersection of **AI, Security, and Full Stack Development**
